@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #fff;
+  min-height: 130px;
+}
+
+.App-footer {
+  min-height: calc(100vh - 876px);
+}
+/* 
+.App-link {
+  color: #61dafb;
+} */
